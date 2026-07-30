@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Caderno Inteligente e Cronograma de Estudos",
+  "description": "Aplicativo de estudos digital completo com caderno interativo para desenho/pincel (otimizado para mesas digitalizadoras e canetas), planejador de cronogramas personalizados, monitor de progresso acadêmico, assistente de revisões espaçadas e gamificação integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
